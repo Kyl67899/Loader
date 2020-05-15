@@ -1,2 +1,2 @@
-#  https://kyl67899.github.io/Loader.github.io/
+# https://kyl67899.github.io/Loader/
 Loader page
